@@ -1,3 +1,3 @@
-![banner](https://raw.githubusercontent.com/IgnacioPrados/TinDog/master/images/preview.JPG)
+![banner](https://raw.githubusercontent.com/IgnacioPrados/SimonSaysGame/master/work11.jpg)
 # SimonSaysGame
 Simon Says Game - Udemy Project
