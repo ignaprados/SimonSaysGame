@@ -5,7 +5,7 @@ Simon Says Web Game - Udemy Project
 
 Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
 
-https://simonsaysgame.vercel.app/
+https://simonsaysgame.vercel.app
 
 ## Description
 This is a very fun game, I remember having the physical version when I was a kid, it was time to recreate the online version, using a bit of JavaScript and manipulating the DOM. It has a very simple and retro design.
